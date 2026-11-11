@@ -1,0 +1,6 @@
+{
+  "name": "FlowBarb - Gestão Inteligente para Barbearias",
+  "description": "Sistema SaaS completo de gestão para donos de barbearias com Inteligência Artificial, agendamento online 24h, login de equipe e clientes na palma da mão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
